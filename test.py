@@ -5,3 +5,5 @@ names = ["Alicia", "Ben", "Charlie", "Harry", "James", "Killian"]
 print(names[4])
 
 print(names[3])
+
+print(names[0])
