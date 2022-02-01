@@ -13,3 +13,5 @@ print(names[2])
 print (names[1])
 
 print (names[5])
+
+# Confirmation everyone's accessed the file 
