@@ -1,3 +1,4 @@
 # Team_17_CS_Project
 Group project for 4216COMP
-When you see this can you please try to access the repository through VS Code and try to add code to print your name from the list I created, then commit the changes to github.
+Everyone seems to have accessed it ok, next thing is can everyone complete the tasks from lab 3 in the new branch thats been created 
+8)
