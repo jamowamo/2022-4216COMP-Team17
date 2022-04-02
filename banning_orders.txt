@@ -1,0 +1,20 @@
+Arsenal,36
+Aston Villa,31
+Burnley,54
+Chelsea,79
+Crystal Palace,31
+Everton,25
+Hull City,19
+Leicester City,24
+Liverpool,53
+Manchester City,35
+Manchester United,49
+Newcastle United,132
+Queens Park Rangers,19
+Southampton,17
+Stoke City,19
+Sunderland,39
+Swansea City,15
+Tottenham Hotspur,37
+West Bromwich Albion,21
+West Ham United,67
