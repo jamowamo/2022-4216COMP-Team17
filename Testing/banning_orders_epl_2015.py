@@ -18,7 +18,6 @@ ax.plot(team_name, banning_orders, 'mD:', label='squares') #plots year values al
 plt.xticks(rotation = 270)
 # ax.set_xlim(1999,2003) #Sets the lower and upper limit of x axis
 # ax.set_ylim(0,100) #y axis limit
-
 # ax.xaxis.grid() can be used if only an x axis grid is desired
 # ax.yaxis.grid() ^
 
