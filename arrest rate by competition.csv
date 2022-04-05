@@ -1,5 +1,4 @@
-Season,Competition,Arrests,Attendance,Arrests per 100000 attendees,
-2014-15,*Total,1837,37500000,4.9,Break
+Season,Competition,Arrests,Attendance,Arrests per 100000 attendees
 2014-15,Premier League,580,13700000,4.2,Break
 2014-15,Championship,538,9800000,5.5, Break
 2014-15,League One,218,3900000,5.6,Break
@@ -10,7 +9,6 @@ Season,Competition,Arrests,Attendance,Arrests per 100000 attendees,
 2014-15,Football League Trophy,"	4	",220000,"	1.8","	Break"
 2014-15,"European competitions	",38,"	2200000	",1.8,"	Break"
 2014-15,Internationals,"	29","	650000","	4.5","	Break"
-2015-16," *Total	","1865	","39100000	","4.8	",Break
 2015-16,Premier League,"	431","	13900000	","3.1	",Break
 2015-16,Championship,"	470	",9700000,"	4.8	",Break
 2015-16,League One,"	263","	4000000","	6.6","	Break"
@@ -21,7 +19,6 @@ Season,Competition,Arrests,Attendance,Arrests per 100000 attendees,
 2015-16,Football League Trophy,"	25","	210000	","11.7	",Break
 2015-16,"European competitions	","61	",2900000,"	2.1	",Break
 2015-16,Internationals,"	75","	1200000	",6.4,"	Break"
-2016-17,"*Total	","1577	",39900000,"	4	",Break
 2016-17,"Premier League	","389	",13600000,2.9,Break
 2016-17,Championship,"	455",11100000,4.1,Break
 2016-17,"League One	","260	",4400000,"	5.9","	Break"
@@ -32,7 +29,6 @@ Season,Competition,Arrests,Attendance,Arrests per 100000 attendees,
 2016-17,Football League Trophy,"	10","	300000	",3.3,"	Break"
 2016-17,European competitions,"	58","	2700000","	2.1","	Break"
 2016-17,Internationals,"	22","	800000","	2.8","	Break"
-2017-18,*Total,"	1485","	42000000","	3.5","	Break"
 2017-18,Premier League,"	288","	14600000","	2","	Break"
 2017-18,Championship,"	530","	11300000","	4.7","	Break"
 2017-18,League One,"	195","	4300000","	4.5","	Break"
