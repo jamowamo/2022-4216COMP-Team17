@@ -1,0 +1,25 @@
+From matplotlib import pyplot as plt 
+
+ 
+
+Year = [2015, 2016, 2017, 2018] 
+
+ 
+
+totalBanningOrdersIssued = [2181, 2085, 1929, 1822] 
+
+ 
+
+plt.xlabel(‘Year’) 
+
+plt.ylabel(‘Total Number of Banning Orders Issued’) 
+
+plt.title(‘Total Number of Banning Orders Issued for all Clubs by Year’) 
+
+ 
+
+plt.plot(year, totalBanningOrdersIssued, ‘mD:’) 
+
+ 
+
+plt.show 

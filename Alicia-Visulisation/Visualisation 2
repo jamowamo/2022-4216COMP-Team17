@@ -1,0 +1,51 @@
+from matplotlib import pyplot as plt 
+
+  
+
+year = [2015, 2016, 2017, 2018] 
+
+  
+
+premierLeagueBans = [802, 617, 507, 492] 
+
+championshipBans = [534, 575, 620, 621] 
+
+leagueOneBans = [378, 417, 391, 285] 
+
+leagueTwoBans = [204, 250, 250, 271] 
+
+nationalLeagueBans = [204, 140, 90, 99] 
+
+otherClubsBans = [59, 86, 71, 54] 
+
+  
+
+  
+
+plt.plot(year, premierLeagueBans) 
+
+plt.plot(year, championshipBans) 
+
+plt.plot(year, leagueOneBans) 
+
+plt.plot(year, leagueTwoBans) 
+
+plt.plot(year, nationalLeagueBans) 
+
+plt.plot(year, otherClubsBans) 
+
+  
+
+plt.xlabel('Year') 
+
+plt.ylabel('Total Number of Bans') 
+
+plt.title('A Graph Showing all Club Bans Issued per Year.') 
+
+  
+
+plt.legend( ['Premier Legaue', 'Championship', 'League One', 'League Two', 'National League', 'Other'] ) 
+
+  
+
+plt.show() 
