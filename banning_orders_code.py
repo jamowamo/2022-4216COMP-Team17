@@ -51,12 +51,12 @@ with open('banning_orders_table.csv', 'r') as f:
             other_clubs_banning_orders.append(int(row[3]))
 
 fig, ax = plt.subplots() #Creates the figure 
-fig.suptitle("Premier League", fontsize=18) #Sets the suptitle
-ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
+#fig.suptitle("Premier League", fontsize=18) #Sets the suptitle
+# ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
 ax.set_xlabel("Team name", fontsize=8) #sets the x label to year
 ax.set_ylabel("Number of banning orders", fontsize=12)
 # ax.plot(epl_teams, epl_banning_orders, 'mD:', label='squares') #plots year values along the x axis and total_fans across the y axis. adds squares as the legend for the plotted line
-ax.bar(champ_teams,champ_banning_orders)
+# ax.bar(champ_teams,champ_banning_orders)
 plt.xticks(rotation = 270)
 
 ax.set_yticks(range(0,150,5))
@@ -69,10 +69,18 @@ ax.yaxis.grid()
 # ax.grid(True) #Creates an x and y axis grid
 # ax.legend() #Displays the legend
 
-# while True:
-    #io = input("\nEnter 'Yes' if you would you like to view the graph. If no, please enter 'q'")
-    #if io == 'q':
-     #   break
-    #if io == 'Yes':
+while True:
+    league_input = input("\nWhich league banning orders graph would you like to view?\nPremier League\nChampionship\League One\nLeague Two\nNational League\nOther clubs\nTo exit, please enter 'q'")
+    year_input = input("\nWhich year would you like to view\n2015\n2016\n2017\n2018")
 
-plt.show()
+    if league_input == 'Premier League':
+        while True:
+            if  io == 'Premier League':
+                fig, ax = plt.subplots() #Creates the figure 
+                fig.suptitle("Premier League", fontsize=18) #Sets the suptitle
+                ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
+                ax.bar(champ_teams,champ_banning_orders)
+                plt.xticks(rotation = 270)
+            
+            if io == 'Yes':
+                plt.show()
