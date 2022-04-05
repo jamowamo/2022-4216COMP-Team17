@@ -50,70 +50,65 @@ with open('banning_orders_table.csv', 'r') as f:
             other_clubs.append(row[2])
             other_clubs_banning_orders.append(int(row[3]))
 
-fig, ax = plt.subplots() #Creates the figure 
+    fig, ax = plt.subplots() #Creates the figure 
 #fig.suptitle("Premier League", fontsize=18) #Sets the suptitle
 # ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
-ax.set_xlabel("Team name", fontsize=8) #sets the x label to year
-ax.set_ylabel("Number of banning orders", fontsize=12)
+    ax.set_xlabel("Team name", fontsize=8) #sets the x label to year
+    ax.set_ylabel("Number of banning orders", fontsize=12)
 # ax.plot(epl_teams, epl_banning_orders, 'mD:', label='squares') #plots year values along the x axis and total_fans across the y axis. adds squares as the legend for the plotted line
 # ax.bar(champ_teams,champ_banning_orders)
-plt.xticks(rotation = 270)
+    plt.xticks(rotation = 270)
 
-ax.set_yticks(range(0,150,5))
+    ax.set_yticks(range(0,150,5))
 # ax.set_xlim(0,150) #Sets the lower and upper limit of x axis
-ax.set_ylim(0,150) #y axis limit
+    ax.set_ylim(0,150) #y axis limit
 
 # ax.xaxis.grid() can be used if only an x axis grid is desired
-ax.yaxis.grid()
+    ax.yaxis.grid()
 
 # ax.grid(True) #Creates an x and y axis grid
 # ax.legend() #Displays the legend
 
 while True:
-    league_input = input("\nWhich league banning orders graph would you like to view?\nPremier League\nChampionship\League One\nLeague Two\nNational League\nOther clubs\nTo exit, please enter 'q'")
-    year_input = input("\nWhich year would you like to view\n2015\n2016\n2017\n2018")
+    league_input = input("\nWhich league banning orders graph would you like to view?\nPremier League\nChampionship\nLeague One\nLeague Two\nNational League\nOther clubs\nTo exit, please enter 'q'\n")
 
     if league_input == 'Premier League':
-        fig, ax = plt.subplots() #Creates the figure 
         fig.suptitle("Premier League", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(epl_teams,epl_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
-    if input == 'Championship':
-        fig, ax = plt.subplots() #Creates the figure 
+    if league_input == 'Championship': 
         fig.suptitle("Championship", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(champ_teams,champ_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
-    if input == 'League One':
-        fig, ax = plt.subplots() #Creates the figure 
+    if league_input == 'League One':
         fig.suptitle("League One", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(efl_one_teams,efl_one_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
-    if input == 'League Two':
-        fig, ax = plt.subplots() #Creates the figure 
+    if league_input == 'League Two':
         fig.suptitle("League Two", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(efl_two_teams,efl_two_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
-    if input == 'National League':
-        fig, ax = plt.subplots() #Creates the figure 
+    if league_input == 'National League':
         fig.suptitle("National League", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(national_league_teams,national_league_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
-    if input == 'Other clubs':
-        fig, ax = plt.subplots() #Creates the figure 
+    if league_input == 'Other clubs':
         fig.suptitle("Other clubs", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(other_clubs,other_clubs_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
-    if input == 'q':
-        break
+    if league_input == 'q':
+        quit()
+
+year_input = input("\nWhich year would you like to view\n2015\n2016\n2017\n2018\n")
