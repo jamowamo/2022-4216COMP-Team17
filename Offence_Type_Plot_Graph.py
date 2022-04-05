@@ -21,12 +21,12 @@ with open('Offence_Type_Table2010.csv', 'r') as f:
             Offence_Type.append(row[1])
             Number_Of_Offences.append(int(row[2]))
         
-fig, ax = plt.subplots() #Creates the figure 
+fig, ax = plt.subplots() #Creates the graph 
 fig.suptitle("By Killian Keogh", fontsize=12) #Sets the suptitle
 ax.set_title("Offences By Type 2010/2011", fontsize=14) #Sets the title
-ax.set_xlabel("Team name", fontsize=8) #sets the x label to year
+ax.set_xlabel("Offence name", fontsize=8) #sets the x label to Offence Name
 ax.set_ylabel("Number of Offences by Type 2010/2011", fontsize=12)
-ax.plot(Offence_Type, Number_Of_Offences, 'mD:', label='squares') #plots year values along the x axis and total_fans across the y axis. adds squares as the legend for the plotted line
+ax.plot(Offence_Type, Number_Of_Offences, 'mD:', label='squares')
 
 plt.xticks(rotation = 270)
 
