@@ -70,6 +70,7 @@ with open('banning_orders_table.csv', 'r') as f:
 # ax.legend() #Displays the legend
 
 while True:
+    done = True
     league_input = input("\nWhich league banning orders graph would you like to view?\nPremier League\nChampionship\nLeague One\nLeague Two\nNational League\nOther clubs\nTo exit, please enter 'q'\n")
 
     if league_input == 'Premier League':
@@ -78,37 +79,42 @@ while True:
         ax.bar(epl_teams,epl_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
+        done = False
     if league_input == 'Championship': 
         fig.suptitle("Championship", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(champ_teams,champ_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
+        done = False
     if league_input == 'League One':
         fig.suptitle("League One", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(efl_one_teams,efl_one_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
+        done = False
     if league_input == 'League Two':
         fig.suptitle("League Two", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(efl_two_teams,efl_two_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
+        done = False
     if league_input == 'National League':
         fig.suptitle("National League", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(national_league_teams,national_league_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
+        done = False
     if league_input == 'Other clubs':
         fig.suptitle("Other clubs", fontsize=18) #Sets the suptitle
         ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
         ax.bar(other_clubs,other_clubs_banning_orders)
         plt.xticks(rotation = 270)
         plt.show()
+        done = False
     if league_input == 'q':
         quit()
-
 year_input = input("\nWhich year would you like to view\n2015\n2016\n2017\n2018\n")
