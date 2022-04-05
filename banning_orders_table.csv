@@ -1,0 +1,552 @@
+﻿Date,League,Team,Amount,Break
+08-Sept-15,Premier League,Arsenal,36,Break
+08-Sept-15,Premier League,Aston Villa,31,Break
+08-Sept-15,Premier League,Burnley,54,Break
+08-Sept-15,Premier League,Chelsea,79,Break
+08-Sept-15,Premier League,Crystal Palace,31,Break
+08-Sept-15,Premier League,Everton,25,Break
+08-Sept-15,Premier League,Hull City,19,Break
+08-Sept-15,Premier League,Leicester City,24,Break
+08-Sept-15,Premier League,Liverpool,53,Break
+08-Sept-15,Premier League,Manchester City,35,Break
+08-Sept-15,Premier League,Manchester United,49,Break
+08-Sept-15,Premier League,Newcastle United,132,Break
+08-Sept-15,Premier League,Queens Park Rangers,19,Break
+08-Sept-15,Premier League,Southampton,17,Break
+08-Sept-15,Premier League,Stoke City,19,Break
+08-Sept-15,Premier League,Sunderland,39,Break
+08-Sept-15,Premier League,Swansea City,15,Break
+08-Sept-15,Premier League,Tottenham Hotspur,37,Break
+08-Sept-15,Premier League,West Bromwich Albion,21,Break
+08-Sept-15,Premier League,West Ham United,67,Break
+08-Sept-15,Championship,AFC Bournemouth,5,Break
+08-Sept-15,Championship,Birmingham City,24,Break
+08-Sept-15,Championship,Blackburn Rovers,29,Break
+08-Sept-15,Championship,Blackpool,6,Break
+08-Sept-15,Championship,Bolton Wanderers,18,Break
+08-Sept-15,Championship,Brentford,14,Break
+08-Sept-15,Championship,Brighton & Hove Albion,11,Break
+08-Sept-15,Championship,Cardiff City,56,Break
+08-Sept-15,Championship,Charlton Athletic,16,Break
+08-Sept-15,Championship,Derby County,22,Break
+08-Sept-15,Championship,Fulham,5,Break
+08-Sept-15,Championship,Huddersfield Town,34,Break
+08-Sept-15,Championship,Ipswich Town,4,Break
+08-Sept-15,Championship,Leeds United,58,Break
+08-Sept-15,Championship,Middlesbrough,29,Break
+08-Sept-15,Championship,Millwall,64,Break
+08-Sept-15,Championship,Norwich City,3,Break
+08-Sept-15,Championship,Nottingham Forest,23,Break
+08-Sept-15,Championship,Reading,9,Break
+08-Sept-15,Championship,Rotherham United,18,Break
+08-Sept-15,Championship,Sheffield Wednesday,32,Break
+08-Sept-15,Championship,Watford,4,Break
+08-Sept-15,Championship,Wigan Athletic,7,Break
+08-Sept-15,Championship,Wolverhampton Wanderers,43,Break
+08-Sept-15,League One,Barnsley,15,Break
+08-Sept-15,League One,Bradford City,36,Break
+08-Sept-15,League One,Bristol City,62,Break
+08-Sept-15,League One,Chesterfield,30,Break
+08-Sept-15,League One,Colchester United,2,Break
+08-Sept-15,League One,Coventry City,27,Break
+08-Sept-15,League One,Crawley Town,4,Break
+08-Sept-15,League One,Crewe Alexandra,11,Break
+08-Sept-15,League One,Doncaster Rovers,20,Break
+08-Sept-15,League One,Fleetwood Town,3,Break
+08-Sept-15,League One,Gillingham,7,Break
+08-Sept-15,League One,Leyton Orient,7,Break
+08-Sept-15,League One,Milton Keynes Dons,1,Break
+08-Sept-15,League One,Notts County,2,Break
+08-Sept-15,League One,Oldham Athletic,10,Break
+08-Sept-15,League One,Peterborough United,4,Break
+08-Sept-15,League One,Port Vale,17,Break
+08-Sept-15,League One,Preston North End,6,Break
+08-Sept-15,League One,Rochdale,8,Break
+08-Sept-15,League One,Scunthorpe United,35,Break
+08-Sept-15,League One,Sheffield United,31,Break
+08-Sept-15,League One,Swindon Town,15,Break
+08-Sept-15,League One,Walsall,24,Break
+08-Sept-15,League One,Yeovil Town,1,Break
+08-Sept-15,League Two,Accrington Stanley,0,Break
+08-Sept-15,League Two,AFC Wimbledon,4,Break
+08-Sept-15,League Two,Burton Albion,0,Break
+08-Sept-15,League Two,Bury,7,Break
+08-Sept-15,League Two,Cambridge United,4,Break
+08-Sept-15,League Two,Carlisle United,6,Break
+08-Sept-15,League Two,Cheltenham Town,0,Break
+08-Sept-15,League Two,Dagenham & Redbridge,14,Break
+08-Sept-15,League Two,Exeter City,6,Break
+08-Sept-15,League Two,Hartlepool United,24,Break
+08-Sept-15,League Two,Luton Town,27,Break
+08-Sept-15,League Two,Mansfield Town,9,Break
+08-Sept-15,League Two,Morecambe,2,Break
+08-Sept-15,League Two,Newport County,6,Break
+08-Sept-15,League Two,Northampton Town,3,Break
+08-Sept-15,League Two,Oxford United,14,Break
+08-Sept-15,League Two,Plymouth Argyle,20,Break
+08-Sept-15,League Two,Portsmouth,15,Break
+08-Sept-15,League Two,Shrewsbury Town,24,Break
+08-Sept-15,League Two,Southend United,3,Break
+08-Sept-15,League Two,Stevenage,1,Break
+08-Sept-15,League Two,Tranmere Rovers,6,Break
+08-Sept-15,League Two,Wycombe Wanderers,1,Break
+08-Sept-15,League Two,York City,8,Break
+08-Sept-15,National League,AFC Telford United,5,Break
+08-Sept-15,National League,Aldershot Town,5,Break
+08-Sept-15,National League,Alfreton Town,4,Break
+08-Sept-15,National League,Altrincham,0,Break
+08-Sept-15,National League,Barnet,0,Break
+08-Sept-15,National League,Braintree Town,0,Break
+08-Sept-15,National League,Bristol Rovers,54,Break
+08-Sept-15,National League,Chester,17,Break
+08-Sept-15,National League,Dartford,0,Break
+08-Sept-15,National League,Dover Athletic,0,Break
+08-Sept-15,National League,Eastleigh,0,Break
+08-Sept-15,National League,FC Halifax Town,10,Break
+08-Sept-15,National League,Forest Green Rovers,0,Break
+08-Sept-15,National League,Gateshead,0,Break
+08-Sept-15,National League,Grimsby Town,32,Break
+08-Sept-15,National League,Kidderminster Harriers,6,Break
+08-Sept-15,National League,Lincoln City,36,Break
+08-Sept-15,National League,Macclesfield Town,4,Break
+08-Sept-15,National League,Nuneaton Town,7,Break
+08-Sept-15,National League,Southport,0,Break
+08-Sept-15,National League,Torquay United,5,Break
+08-Sept-15,National League,Welling United,0,Break
+08-Sept-15,National League,Woking,1,Break
+08-Sept-15,National League,Wrexham,18,Break
+08-Sept-15,Other clubs,Aberdeen,3,Break
+08-Sept-15,Other clubs,Bangor City,1,Break
+08-Sept-15,Other clubs,Barrow,1,Break
+08-Sept-15,Other clubs,Blyth Spartans,1,Break
+08-Sept-15,Other clubs,FC United of Manchester,1,Break
+08-Sept-15,Other clubs,Fredikstad,1,Break
+08-Sept-15,Other clubs,Galatasaray,4,Break
+08-Sept-15,Other clubs,Hednesford Town,2,Break
+08-Sept-15,Other clubs,Hereford United,2,Break
+08-Sept-15,Other clubs,Kettering Town,1,Break
+08-Sept-15,Other clubs,Lyon,1,Break
+08-Sept-15,Other clubs,Rangers,16,Break
+08-Sept-15,Other clubs,Sparta Prague,1,Break
+08-Sept-15,Other clubs,Staines Town,1,Break
+08-Sept-15,Other clubs,Stalybridge Celtic,4,Break
+08-Sept-15,Other clubs,Stockport County,16,Break
+08-Sept-15,Other clubs,Worcester City,1,Break
+08-Sept-15,Other clubs,Zenit St. Petersburg,1,Break
+08-Sept-15,Other clubs,Not Known,1,Break
+01-Aug-16,Premier League,*Total,617,Break
+01-Aug-16,Premier League,AFC Bournemouth,3,Break
+01-Aug-16,Premier League,Arsenal,30,Break
+01-Aug-16,Premier League,Aston Villa,29,Break
+01-Aug-16,Premier League,Chelsea,60,Break
+01-Aug-16,Premier League,Crystal Palace,24,Break
+01-Aug-16,Premier League,Everton,22,Break
+01-Aug-16,Premier League,Leicester City,18,Break
+01-Aug-16,Premier League,Liverpool,49,Break
+01-Aug-16,Premier League,Manchester City,27,Break
+01-Aug-16,Premier League,Manchester United,38,Break
+01-Aug-16,Premier League,Newcastle United,124,Break
+01-Aug-16,Premier League,Norwich City,1,Break
+01-Aug-16,Premier League,Southampton,15,Break
+01-Aug-16,Premier League,Stoke City,18,Break
+01-Aug-16,Premier League,Sunderland,37,Break
+01-Aug-16,Premier League,Swansea City,12,Break
+01-Aug-16,Premier League,Tottenham Hotspur,34,Break
+01-Aug-16,Premier League,Watford,11,Break
+01-Aug-16,Premier League,West Bromwich Albion,21,Break
+01-Aug-16,Premier League,West Ham United,44,Break
+01-Aug-16,Championship ,*Total,575,Break
+01-Aug-16,Championship ,Birmingham City,31,Break
+01-Aug-16,Championship ,Blackburn Rovers,25,Break
+01-Aug-16,Championship ,Bolton Wanderers,20,Break
+01-Aug-16,Championship ,Brentford,17,Break
+01-Aug-16,Championship ,Brighton & Hove Albion,9,Break
+01-Aug-16,Championship ,Bristol City,42,Break
+01-Aug-16,Championship ,Burnley,48,Break
+01-Aug-16,Championship ,Cardiff City,44,Break
+01-Aug-16,Championship ,Charlton Athletic,26,Break
+01-Aug-16,Championship ,Derby County,29,Break
+01-Aug-16,Championship ,Fulham,5,Break
+01-Aug-16,Championship ,Huddersfield Town,18,Break
+01-Aug-16,Championship ,Hull City,14,Break
+01-Aug-16,Championship ,Ipswich Town,5,Break
+01-Aug-16,Championship ,Leeds United,47,Break
+01-Aug-16,Championship ,Middlesbrough,26,Break
+01-Aug-16,Championship ,Milton Keynes Dons,0,Break
+01-Aug-16,Championship ,Nottingham Forest,32,Break
+01-Aug-16,Championship ,Preston North End,6,Break
+01-Aug-16,Championship ,Queens Park Rangers,15,Break
+01-Aug-16,Championship ,Reading,15,Break
+01-Aug-16,Championship ,Rotherham United,20,Break
+01-Aug-16,Championship ,Sheffield Wednesday,29,Break
+01-Aug-16,Championship ,Wolverhampton Wanderers,52,Break
+01-Aug-16,League One ,*Total,417,Break
+01-Aug-16,League One ,Barnsley,26,Break
+01-Aug-16,League One ,Blackpool,15,Break
+01-Aug-16,League One ,Bradford City,20,Break
+01-Aug-16,League One ,Burton Albion,0,Break
+01-Aug-16,League One ,Bury,6,Break
+01-Aug-16,League One ,Chesterfield,22,Break
+01-Aug-16,League One ,Colchester United,4,Break
+01-Aug-16,League One ,Coventry City,25,Break
+01-Aug-16,League One ,Crewe Alexandra,17,Break
+01-Aug-16,League One ,Doncaster Rovers,23,Break
+01-Aug-16,League One ,Fleetwood Town,3,Break
+01-Aug-16,League One ,Gillingham,5,Break
+01-Aug-16,League One ,Millwall,57,Break
+01-Aug-16,League One ,Oldham Athletic,11,Break
+01-Aug-16,League One ,Peterborough United,18,Break
+01-Aug-16,League One ,Port Vale,19,Break
+01-Aug-16,League One ,Rochdale,6,Break
+01-Aug-16,League One ,Scunthorpe United,23,Break
+01-Aug-16,League One ,Sheffield United,39,Break
+01-Aug-16,League One ,Shrewsbury Town,22,Break
+01-Aug-16,League One ,Southend United,13,Break
+01-Aug-16,League One ,Swindon Town,13,Break
+01-Aug-16,League One ,Walsall,25,Break
+01-Aug-16,League One ,Wigan Athletic,5,Break
+01-Aug-16,League Two,*Total,250,Break
+01-Aug-16,League Two,Accrington Stanley,0,Break
+01-Aug-16,League Two,AFC Wimbledon,7,Break
+01-Aug-16,League Two,Barnet,1,Break
+01-Aug-16,League Two,Bristol Rovers,47,Break
+01-Aug-16,League Two,Cambridge United,12,Break
+01-Aug-16,League Two,Carlisle United,15,Break
+01-Aug-16,League Two,Crawley Town,2,Break
+01-Aug-16,League Two,Dagenham & Redbridge,3,Break
+01-Aug-16,League Two,Exeter City,10,Break
+01-Aug-16,League Two,Hartlepool United,25,Break
+01-Aug-16,League Two,Leyton Orient,6,Break
+01-Aug-16,League Two,Luton Town,28,Break
+01-Aug-16,League Two,Mansfield Town,9,Break
+01-Aug-16,League Two,Morecambe,3,Break
+01-Aug-16,League Two,Newport County,10,Break
+01-Aug-16,League Two,Northampton Town,3,Break
+01-Aug-16,League Two,Notts County,1,Break
+01-Aug-16,League Two,Oxford United,8,Break
+01-Aug-16,League Two,Plymouth Argyle,37,Break
+01-Aug-16,League Two,Portsmouth,15,Break
+01-Aug-16,League Two,Stevenage,3,Break
+01-Aug-16,League Two,Wycombe Wanderers,0,Break
+01-Aug-16,League Two,Yeovil Town,1,Break
+01-Aug-16,League Two,York City,4,Break
+01-Aug-16,National League (National Division),*Total,140,Break
+01-Aug-16,National League (National Division),Aldershot Town,5,Break
+01-Aug-16,National League (National Division),Altrincham,0,Break
+01-Aug-16,National League (National Division),Barrow,0,Break
+01-Aug-16,National League (National Division),Boreham Wood,0,Break
+01-Aug-16,National League (National Division),Braintree Town,0,Break
+01-Aug-16,National League (National Division),Bromley,0,Break
+01-Aug-16,National League (National Division),Cheltenham Town,0,Break
+01-Aug-16,National League (National Division),Chester,17,Break
+01-Aug-16,National League (National Division),Dover Athletic,0,Break
+01-Aug-16,National League (National Division),Eastleigh,0,Break
+01-Aug-16,National League (National Division),FC Halifax Town,7,Break
+01-Aug-16,National League (National Division),Forest Green Rovers,0,Break
+01-Aug-16,National League (National Division),Gateshead,0,Break
+01-Aug-16,National League (National Division),Grimsby Town,27,Break
+01-Aug-16,National League (National Division),Guiseley,0,Break
+01-Aug-16,National League (National Division),Kidderminster Harriers,5,Break
+01-Aug-16,National League (National Division),Lincoln City,35,Break
+01-Aug-16,National League (National Division),Macclesfield Town,6,Break
+01-Aug-16,National League (National Division),Southport,0,Break
+01-Aug-16,National League (National Division),Torquay United,5,Break
+01-Aug-16,National League (National Division),Tranmere Rovers,13,Break
+01-Aug-16,National League (National Division),Welling United,0,Break
+01-Aug-16,National League (National Division),Woking,1,Break
+01-Aug-16,National League (National Division),Wrexham,19,Break
+01-Aug-16,Other clubs,*Total,86,Break
+01-Aug-16,Other clubs,Aberdeen,2,Break
+01-Aug-16,Other clubs,AFC Telford United,5,Break
+01-Aug-16,Other clubs,Alfreton Town,2,Break
+01-Aug-16,Other clubs,Atherstone Town,21,Break
+01-Aug-16,Other clubs,Bangor City,1,Break
+01-Aug-16,Other clubs,Blyth Spartans,1,Break
+01-Aug-16,Other clubs,Galatasaray,4,Break
+01-Aug-16,Other clubs,Hednesford Town,2,Break
+01-Aug-16,Other clubs,Hereford United,2,Break
+01-Aug-16,Other clubs,Nuneaton Town,7,Break
+01-Aug-16,Other clubs,Rangers,16,Break
+01-Aug-16,Other clubs,Stalybridge Celtic,4,Break
+01-Aug-16,Other clubs,Stockport County,12,Break
+01-Aug-16,Other clubs,Worcester City,2,Break
+01-Aug-16,Other clubs,Not Known,5,Break
+07-Aug-17,Premier League,*Total,507,Break
+07-Aug-17,Premier League,AFC Bournemouth,4,Break
+07-Aug-17,Premier League,Arsenal,23,Break
+07-Aug-17,Premier League,Burnley,39,Break
+07-Aug-17,Premier League,Chelsea,42,Break
+07-Aug-17,Premier League,Crystal Palace,22,Break
+07-Aug-17,Premier League,Everton,30,Break
+07-Aug-17,Premier League,Hull City,21,Break
+07-Aug-17,Premier League,Leicester City,10,Break
+07-Aug-17,Premier League,Liverpool,44,Break
+07-Aug-17,Premier League,Manchester City,18,Break
+07-Aug-17,Premier League,Manchester United,49,Break
+07-Aug-17,Premier League,Middlesbrough,33,Break
+07-Aug-17,Premier League,Southampton,16,Break
+07-Aug-17,Premier League,Stoke City,12,Break
+07-Aug-17,Premier League,Sunderland,23,Break
+07-Aug-17,Premier League,Swansea City,10,Break
+07-Aug-17,Premier League,Tottenham Hotspur,28,Break
+07-Aug-17,Premier League,Watford,10,Break
+07-Aug-17,Premier League,West Bromwich Albion,16,Break
+07-Aug-17,Premier League,West Ham United,57,Break
+07-Aug-17,Championship ,*Total,620,Break
+07-Aug-17,Championship ,Aston Villa,31,Break
+07-Aug-17,Championship ,Barnsley,43,Break
+07-Aug-17,Championship ,Birmingham City,41,Break
+07-Aug-17,Championship ,Blackburn Rovers,13,Break
+07-Aug-17,Championship ,Brentford,13,Break
+07-Aug-17,Championship ,Brighton & Hove Albion,20,Break
+07-Aug-17,Championship ,Bristol City,39,Break
+07-Aug-17,Championship ,Burton Albion,0,Break
+07-Aug-17,Championship ,Cardiff City,25,Break
+07-Aug-17,Championship ,Derby County,34,Break
+07-Aug-17,Championship ,Fulham,4,Break
+07-Aug-17,Championship ,Huddersfield Town,9,Break
+07-Aug-17,Championship ,Ipswich Town,9,Break
+07-Aug-17,Championship ,Leeds United,36,Break
+07-Aug-17,Championship ,Newcastle United,111,Break
+07-Aug-17,Championship ,Norwich City,2,Break
+07-Aug-17,Championship ,Nottingham Forest,35,Break
+07-Aug-17,Championship ,Preston North End,5,Break
+07-Aug-17,Championship ,Queens Park Rangers,27,Break
+07-Aug-17,Championship ,Reading,16,Break
+07-Aug-17,Championship ,Rotherham United,13,Break
+07-Aug-17,Championship ,Sheffield Wednesday,17,Break
+07-Aug-17,Championship ,Wigan Athletic,2,Break
+07-Aug-17,Championship ,Wolverhampton Wanderers,75,Break
+07-Aug-17,League One ,*Total,391,Break
+07-Aug-17,League One ,AFC Wimbledon,5,Break
+07-Aug-17,League One ,Bolton Wanderers,18,Break
+07-Aug-17,League One ,Bradford City,11,Break
+07-Aug-17,League One ,Bristol Rovers,39,Break
+07-Aug-17,League One ,Bury,7,Break
+07-Aug-17,League One ,Charlton Athletic,28,Break
+07-Aug-17,League One ,Chesterfield,15,Break
+07-Aug-17,League One ,Coventry City,20,Break
+07-Aug-17,League One ,Fleetwood Town,3,Break
+07-Aug-17,League One ,Gillingham,6,Break
+07-Aug-17,League One ,Millwall,55,Break
+07-Aug-17,League One ,Milton Keynes Dons,0,Break
+07-Aug-17,League One ,Northampton Town,7,Break
+07-Aug-17,League One ,Oldham Athletic,6,Break
+07-Aug-17,League One ,Oxford United,7,Break
+07-Aug-17,League One ,Peterborough United,20,Break
+07-Aug-17,League One ,Port Vale,11,Break
+07-Aug-17,League One ,Rochdale,2,Break
+07-Aug-17,League One ,Scunthorpe United,10,Break
+07-Aug-17,League One ,Sheffield United,37,Break
+07-Aug-17,League One ,Shrewsbury Town,16,Break
+07-Aug-17,League One ,Southend United,25,Break
+07-Aug-17,League One ,Swindon Town,13,Break
+07-Aug-17,League One ,Walsall,30,Break
+07-Aug-17,League Two,*Total,250,Break
+07-Aug-17,League Two,Accrington Stanley,0,Break
+07-Aug-17,League Two,Barnet,2,Break
+07-Aug-17,League Two,Blackpool,14,Break
+07-Aug-17,League Two,Cambridge United,12,Break
+07-Aug-17,League Two,Carlisle United,18,Break
+07-Aug-17,League Two,Cheltenham Town,0,Break
+07-Aug-17,League Two,Colchester United,6,Break
+07-Aug-17,League Two,Crawley Town,2,Break
+07-Aug-17,League Two,Crewe Alexandra,11,Break
+07-Aug-17,League Two,Doncaster Rovers,11,Break
+07-Aug-17,League Two,Exeter City,10,Break
+07-Aug-17,League Two,Grimsby Town,32,Break
+07-Aug-17,League Two,Hartlepool United,13,Break
+07-Aug-17,League Two,Leyton Orient,5,Break
+07-Aug-17,League Two,Luton Town,22,Break
+07-Aug-17,League Two,Mansfield Town,17,Break
+07-Aug-17,League Two,Morecambe,2,Break
+07-Aug-17,League Two,Newport County,11,Break
+07-Aug-17,League Two,Notts County,4,Break
+07-Aug-17,League Two,Plymouth Argyle,37,Break
+07-Aug-17,League Two,Portsmouth,17,Break
+07-Aug-17,League Two,Stevenage,3,Break
+07-Aug-17,League Two,Wycombe Wanderers,1,Break
+07-Aug-17,League Two,Yeovil Town,0,Break
+07-Aug-17,National League (National Division),*Total,90,Break
+07-Aug-17,National League (National Division),Aldershot Town,5,Break
+07-Aug-17,National League (National Division),Barrow,5,Break
+07-Aug-17,National League (National Division),Boreham Wood,0,Break
+07-Aug-17,National League (National Division),Braintree Town,0,Break
+07-Aug-17,National League (National Division),Bromley,0,Break
+07-Aug-17,National League (National Division),Chester ,8,Break
+07-Aug-17,National League (National Division),Dagenham & Redbridge,2,Break
+07-Aug-17,National League (National Division),Dover Athletic,0,Break
+07-Aug-17,National League (National Division),Eastleigh,0,Break
+07-Aug-17,National League (National Division),Forest Green Rovers,0,Break
+07-Aug-17,National League (National Division),Gateshead,1,Break
+07-Aug-17,National League (National Division),Guiseley,0,Break
+07-Aug-17,National League (National Division),Lincoln City,30,Break
+07-Aug-17,National League (National Division),Macclesfield Town,4,Break
+07-Aug-17,National League (National Division),Maidstone United,0,Break
+07-Aug-17,National League (National Division),North Ferriby United,0,Break
+07-Aug-17,National League (National Division),Solihull Moors,0,Break
+07-Aug-17,National League (National Division),Southport,0,Break
+07-Aug-17,National League (National Division),Sutton United,1,Break
+07-Aug-17,National League (National Division),Torquay United,1,Break
+07-Aug-17,National League (National Division),Tranmere Rovers,15,Break
+07-Aug-17,National League (National Division),Woking,1,Break
+07-Aug-17,National League (National Division),Wrexham,14,Break
+07-Aug-17,National League (National Division),York City,3,Break
+07-Aug-17,Other clubs,*Total,71,Break
+07-Aug-17,Other clubs,Aberdeen,2,Break
+07-Aug-17,Other clubs,AFC Telford United,5,Break
+07-Aug-17,Other clubs,Altrincham,1,Break
+07-Aug-17,Other clubs,Atherstone Town,21,Break
+07-Aug-17,Other clubs,Blyth Spartans,1,Break
+07-Aug-17,Other clubs,Boston United,1,Break
+07-Aug-17,Other clubs,Darlington,2,Break
+07-Aug-17,Other clubs,FC Halifax Town,6,Break
+07-Aug-17,Other clubs,Galatasaray,4,Break
+07-Aug-17,Other clubs,Hednesford Town,1,Break
+07-Aug-17,Other clubs,Hereford United,1,Break
+07-Aug-17,Other clubs,Kidderminster Harriers,1,Break
+07-Aug-17,Other clubs,Nuneaton Town,5,Break
+07-Aug-17,Other clubs,Rangers,6,Break
+07-Aug-17,Other clubs,Stalybridge Celtic,3,Break
+07-Aug-17,Other clubs,Stockport County,5,Break
+07-Aug-17,Other clubs,Tamworth,1,Break
+07-Aug-17,Other clubs,Worcester City,1,Break
+07-Aug-17,Other clubs,Not Known,4,Break
+01-Aug-18,Premier League,*Total,492,Break
+01-Aug-18,Premier League,Arsenal,24,Break
+01-Aug-18,Premier League,AFC Bournemouth,3,Break
+01-Aug-18,Premier League,Brighton & Hove Albion,17,Break
+01-Aug-18,Premier League,Burnley,41,Break
+01-Aug-18,Premier League,Chelsea,38,Break
+01-Aug-18,Premier League,Crystal Palace,22,Break
+01-Aug-18,Premier League,Everton,33,Break
+01-Aug-18,Premier League,Huddersfield Town,11,Break
+01-Aug-18,Premier League,Leicester City,14,Break
+01-Aug-18,Premier League,Liverpool,35,Break
+01-Aug-18,Premier League,Manchester City,16,Break
+01-Aug-18,Premier League,Manchester United,42,Break
+01-Aug-18,Premier League,Newcastle United,79,Break
+01-Aug-18,Premier League,Southampton,13,Break
+01-Aug-18,Premier League,Stoke City,10,Break
+01-Aug-18,Premier League,Swansea City,9,Break
+01-Aug-18,Premier League,Tottenham Hotspur,15,Break
+01-Aug-18,Premier League,Watford,8,Break
+01-Aug-18,Premier League,West Bromwich Albion,10,Break
+01-Aug-18,Premier League,West Ham United,52,Break
+01-Aug-18,Championship ,*Total,621,Break
+01-Aug-18,Championship ,Aston Villa,34,Break
+01-Aug-18,Championship ,Barnsley,37,Break
+01-Aug-18,Championship ,Birmingham City,50,Break
+01-Aug-18,Championship ,Bolton Wanderers,17,Break
+01-Aug-18,Championship ,Brentford,6,Break
+01-Aug-18,Championship ,Bristol City,26,Break
+01-Aug-18,Championship ,Burton Albion,0,Break
+01-Aug-18,Championship ,Cardiff City,24,Break
+01-Aug-18,Championship ,Derby County,34,Break
+01-Aug-18,Championship ,Fulham,2,Break
+01-Aug-18,Championship ,Hull City,19,Break
+01-Aug-18,Championship ,Ipswich Town,7,Break
+01-Aug-18,Championship ,Leeds United,28,Break
+01-Aug-18,Championship ,Middlesbrough,35,Break
+01-Aug-18,Championship ,Millwall,45,Break
+01-Aug-18,Championship ,Norwich City,2,Break
+01-Aug-18,Championship ,Nottingham Forest,35,Break
+01-Aug-18,Championship ,Preston North End,1,Break
+01-Aug-18,Championship ,Queens park Rangers,24,Break
+01-Aug-18,Championship ,Reading,12,Break
+01-Aug-18,Championship ,Sheffield United,53,Break
+01-Aug-18,Championship ,Sheffield Wednesday,20,Break
+01-Aug-18,Championship ,Sunderland,46,Break
+01-Aug-18,Championship ,Wolverhampton Wanderers,64,Break
+01-Aug-18,League One ,*Total,285,Break
+01-Aug-18,League One ,AFC Wimbledon,6,Break
+01-Aug-18,League One ,Blackburn Rovers,9,Break
+01-Aug-18,League One ,Blackpool,11,Break
+01-Aug-18,League One ,Bradford City,6,Break
+01-Aug-18,League One ,Bristol Rovers,31,Break
+01-Aug-18,League One ,Bury,6,Break
+01-Aug-18,League One ,Charlton Athletic,21,Break
+01-Aug-18,League One ,Doncaster Rovers,16,Break
+01-Aug-18,League One ,Fleetwood Town,1,Break
+01-Aug-18,League One ,Gillingham,4,Break
+01-Aug-18,League One ,Milton Keynes Dons,0,Break
+01-Aug-18,League One ,Northampton Town,9,Break
+01-Aug-18,League One ,Oldham Athletic,9,Break
+01-Aug-18,League One ,Oxford United,11,Break
+01-Aug-18,League One ,Peterborough United,13,Break
+01-Aug-18,League One ,Plymouth Argyle,33,Break
+01-Aug-18,League One ,Portsmouth,16,Break
+01-Aug-18,League One ,Rochdale,1,Break
+01-Aug-18,League One ,Rotherham United,20,Break
+01-Aug-18,League One ,Scunthorpe United,8,Break
+01-Aug-18,League One ,Shrewsbury Town,10,Break
+01-Aug-18,League One ,Southend United,24,Break
+01-Aug-18,League One ,Walsall,16,Break
+01-Aug-18,League One ,Wigan Athletic,4,Break
+01-Aug-18,League Two,*Total,271,Break
+01-Aug-18,League Two,Accrington Stanley,1,Break
+01-Aug-18,League Two,Barnet,2,Break
+01-Aug-18,League Two,Cambridge United,11,Break
+01-Aug-18,League Two,Carlisle United,16,Break
+01-Aug-18,League Two,Cheltenham Town,0,Break
+01-Aug-18,League Two,Chesterfield,17,Break
+01-Aug-18,League Two,Colchester United,6,Break
+01-Aug-18,League Two,Coventry City,24,Break
+01-Aug-18,League Two,Crawley Town,2,Break
+01-Aug-18,League Two,Crewe Alexandra,11,Break
+01-Aug-18,League Two,Exeter City,9,Break
+01-Aug-18,League Two,Forest Green Rovers,0,Break
+01-Aug-18,League Two,Grimsby Town,50,Break
+01-Aug-18,League Two,Lincoln City,27,Break
+01-Aug-18,League Two,Luton Town,20,Break
+01-Aug-18,League Two,Mansfield Town,17,Break
+01-Aug-18,League Two,Morecambe,2,Break
+01-Aug-18,League Two,Newport County,10,Break
+01-Aug-18,League Two,Notts County,10,Break
+01-Aug-18,League Two,Port Vale,19,Break
+01-Aug-18,League Two,Stevenage,3,Break
+01-Aug-18,League Two,Swindon Town,12,Break
+01-Aug-18,League Two,Wycombe Wanderers,2,Break
+01-Aug-18,League Two,Yeovil Town,0,Break
+01-Aug-18,National League (National Division),*Total,99,Break
+01-Aug-18,National League (National Division),AFC Fylde,0,Break
+01-Aug-18,National League (National Division),Aldershot Town,4,Break
+01-Aug-18,National League (National Division),Barrow,10,Break
+01-Aug-18,National League (National Division),Boreham Wood,0,Break
+01-Aug-18,National League (National Division),Bromley,0,Break
+01-Aug-18,National League (National Division),Chester,17,Break
+01-Aug-18,National League (National Division),Dagenham & Redbridge,1,Break
+01-Aug-18,National League (National Division),Dover Athletic,0,Break
+01-Aug-18,National League (National Division),Eastleigh,0,Break
+01-Aug-18,National League (National Division),Ebbsfleet United,0,Break
+01-Aug-18,National League (National Division),FC Halifax Town,7,Break
+01-Aug-18,National League (National Division),Gateshead,0,Break
+01-Aug-18,National League (National Division),Guiseley,0,Break
+01-Aug-18,National League (National Division),Hartlepool United,8,Break
+01-Aug-18,National League (National Division),Leyton Orient,3,Break
+01-Aug-18,National League (National Division),Macclesfield Town,2,Break
+01-Aug-18,National League (National Division),Maidenhead United,0,Break
+01-Aug-18,National League (National Division),Maidstone United,0,Break
+01-Aug-18,National League (National Division),Solihull Moors,0,Break
+01-Aug-18,National League (National Division),Sutton United,0,Break
+01-Aug-18,National League (National Division),Torquay United,0,Break
+01-Aug-18,National League (National Division),Tranmere Rovers,28,Break
+01-Aug-18,National League (National Division),Woking,3,Break
+01-Aug-18,National League (National Division),Wrexham,16,Break
+01-Aug-18,Other clubs,*Total,54,Break
+01-Aug-18,Other clubs,Aberdeen,1,Break
+01-Aug-18,Other clubs,AFC Telford United,3,Break
+01-Aug-18,Other clubs,Altrincham,1,Break
+01-Aug-18,Other clubs,Atherstone Town,21,Break
+01-Aug-18,Other clubs,Celtic,2,Break
+01-Aug-18,Other clubs,Darlington,2,Break
+01-Aug-18,Other clubs,Hednesford Town,1,Break
+01-Aug-18,Other clubs,Kidderminster Harriers,2,Break
+01-Aug-18,Other clubs,Nuneaton Town,3,Break
+01-Aug-18,Other clubs,Rangers,5,Break
+01-Aug-18,Other clubs,Sutton United,1,Break
+01-Aug-18,Other clubs,Tamworth,2,Break
+01-Aug-18,Other clubs,Weymouth,1,Break
+01-Aug-18,Other clubs,Worcester City,1,Break
+01-Aug-18,Other clubs,York City,6,Break
+01-Aug-18,Other clubs,Not Known,2,Break
