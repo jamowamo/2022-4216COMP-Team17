@@ -74,13 +74,46 @@ while True:
     year_input = input("\nWhich year would you like to view\n2015\n2016\n2017\n2018")
 
     if league_input == 'Premier League':
-        while True:
-            if  input == 'Premier League':
-                fig, ax = plt.subplots() #Creates the figure 
-                fig.suptitle("Premier League", fontsize=18) #Sets the suptitle
-                ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
-                ax.bar(champ_teams,champ_banning_orders)
-                plt.xticks(rotation = 270)
-            
-            if input == 'Yes':
-                plt.show()
+        fig, ax = plt.subplots() #Creates the figure 
+        fig.suptitle("Premier League", fontsize=18) #Sets the suptitle
+        ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
+        ax.bar(epl_teams,epl_banning_orders)
+        plt.xticks(rotation = 270)
+        plt.show()
+    if input == 'Championship':
+        fig, ax = plt.subplots() #Creates the figure 
+        fig.suptitle("Championship", fontsize=18) #Sets the suptitle
+        ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
+        ax.bar(champ_teams,champ_banning_orders)
+        plt.xticks(rotation = 270)
+        plt.show()
+    if input == 'League One':
+        fig, ax = plt.subplots() #Creates the figure 
+        fig.suptitle("League One", fontsize=18) #Sets the suptitle
+        ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
+        ax.bar(efl_one_teams,efl_one_banning_orders)
+        plt.xticks(rotation = 270)
+        plt.show()
+    if input == 'League Two':
+        fig, ax = plt.subplots() #Creates the figure 
+        fig.suptitle("League Two", fontsize=18) #Sets the suptitle
+        ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
+        ax.bar(efl_two_teams,efl_two_banning_orders)
+        plt.xticks(rotation = 270)
+        plt.show()
+    if input == 'National League':
+        fig, ax = plt.subplots() #Creates the figure 
+        fig.suptitle("National League", fontsize=18) #Sets the suptitle
+        ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
+        ax.bar(national_league_teams,national_league_banning_orders)
+        plt.xticks(rotation = 270)
+        plt.show()
+    if input == 'Other clubs':
+        fig, ax = plt.subplots() #Creates the figure 
+        fig.suptitle("Other clubs", fontsize=18) #Sets the suptitle
+        ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
+        ax.bar(other_clubs,other_clubs_banning_orders)
+        plt.xticks(rotation = 270)
+        plt.show()
+    if input == 'q':
+        break
