@@ -1,0 +1,29 @@
+import matplotlib.pyplot as plt 
+
+  
+
+clubNames = ['Premier League', 'Championship', 'League One', 'League Two', 'National League', 'Other'] 
+
+  
+
+clubBans = [492, 621, 285, 271, 99, 54] 
+
+  
+
+plt.title('A Bar Chart to Show the Ammount of Bannings Per Club in 2018.') 
+
+plt.ylabel('Club League') 
+
+plt.xlabel('Total Number of Bans') 
+
+  
+
+  
+
+plt.barh(clubNames, clubBans) 
+
+  
+
+  
+
+plt.show() 
