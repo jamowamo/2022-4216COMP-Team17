@@ -26,7 +26,7 @@ with open('Offence_Type_Table2010.csv', 'r') as f:
 fig, ax = plt.subplots() #Creates the figure 
 fig.suptitle("By Killian Keogh", fontsize=12) #Sets the suptitle
 ax.set_title("Offences By Type 2010/2011", fontsize=14) #Sets the title
-ax.set_xlabel("Offence Name", fontsize=5) #sets the x label to year
+ax.set_xlabel("Offence Name", fontsize=5) #sets the x label to Offence Name
 ax.set_ylabel("Number of Offences by Type 2010/2011", fontsize=12)
 ax.bar(Offence_Type,Number_Of_Offences)
 plt.xticks(rotation = 270)
