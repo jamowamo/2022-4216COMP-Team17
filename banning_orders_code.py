@@ -75,12 +75,12 @@ while True:
 
     if league_input == 'Premier League':
         while True:
-            if  io == 'Premier League':
+            if  input == 'Premier League':
                 fig, ax = plt.subplots() #Creates the figure 
                 fig.suptitle("Premier League", fontsize=18) #Sets the suptitle
                 ax.set_title("Banning orders in 2015", fontsize=14) #Sets the title
                 ax.bar(champ_teams,champ_banning_orders)
                 plt.xticks(rotation = 270)
             
-            if io == 'Yes':
+            if input == 'Yes':
                 plt.show()
